@@ -1,0 +1,2 @@
+cd C:\Users\DEII\.jenkins\workspace\Demo_Proj\Robot_Xray
+curl -D- -u "sp.testing2018":"sptesting2" -X PUT --data "@example.json" -H "Content-Type: application/json" "http://localhost:8000/rest/api/2/issue/ISSUE-34"
